@@ -3,5 +3,5 @@
 eu canto, gosto de arte, ler, ir a praia.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?juliasantossss=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliasantossss)](https://github.com/anuraghazra/github-readme-stats)
 
