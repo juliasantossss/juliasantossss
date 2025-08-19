@@ -1,6 +1,10 @@
-## mim 
+## mim 🤔
 ### Meu nome é Julia
-eu canto, gosto de arte, ler, ir a praia.
+- Eu canto;
+- Gosto de arte;
+- Amo ler;
+- Ir a praia;
+- Respiro musica.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliasantossss)](https://github.com/anuraghazra/github-readme-stats)
